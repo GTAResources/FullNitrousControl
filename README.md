@@ -1,5 +1,5 @@
 ## Full Nitrous Control
-FullNitrousControl by DK22Pac now compatible with IVHud for GTA:San Andreas:
+FullNitrousControl by DK22Pac now compatible with GTAIV Hud for GTA:San Andreas:
 ![Img1](http://i.imgur.com/FEHz4Ye.png)
 
 #### Additional Controls (keyboard)
